@@ -39,3 +39,4 @@
 2023-06-11 03:39:49,740 INFO - DagRun Finished: dag_id=one_task_dag, execution_date=2023-06-11 03:39:41.496947+00:00, run_id=manual__2023-06-11T03:39:41.496947+00:00, run_start_date=2023-06-11 03:39:43.070262+00:00, run_end_date=2023-06-11 03:39:49.740236+00:00, run_duration=6.669974, state=success, external_trigger=True, run_type=manual, data_interval_start=2023-06-11 03:39:41.496947+00:00, data_interval_end=2023-06-11 03:39:41.496947+00:00, dag_hash=23b901f7b6b8f0c69f07fe41c9cdc94d
 2023-06-11 03:39:49,783 INFO - Setting next_dagrun for one_task_dag to None, run_after=None
 2023-06-11 03:41:47,470 INFO - Resetting orphaned tasks for active dag runs
+2023-06-11 03:46:47,517 INFO - Resetting orphaned tasks for active dag runs
